@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 Apache License
 --------------
 
+=======
+                                 Apache License
+>>>>>>> 101b5065f1554feab187251451397b361bc6fba6
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -201,6 +205,7 @@ Apache License
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+<<<<<<< HEAD
 
 All image and audio files (including *.png, *.jpg, *.svg, *.mp3, *.wav 
 and *.ogg) are licensed under the CC-BY-NC license. All other files are 
@@ -645,3 +650,5 @@ licenses.
 
 Creative Commons may be contacted at creativecommons.org.
 
+=======
+>>>>>>> 101b5065f1554feab187251451397b361bc6fba6
