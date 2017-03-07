@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

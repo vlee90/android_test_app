@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="90956913737209"
+    token="383753229821741587"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="464" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="379" />
+    <task
+        name="verifier"
+        duration="55" />
+
+    <artifact
+        location="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/outputs/apk/Application-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="90956913737209"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/outputs/apk/Application-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

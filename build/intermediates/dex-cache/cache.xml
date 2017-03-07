@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_f055baa88bc340abacf55b17027ebdc5c41e4f0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e6565d0a3ee5b0984eda0d2d929398bed92dbf88">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2dcf2f9e081c03c603b17ec5f8375f9cca509f6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="37a1468cdaf31f9973c220ba594205bdf3e3c561">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_49380e0291391c39e7ec757f066c43fad3a1621c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-25.0.1_90ba591b0f7c889e7570d622b762ef211b482b92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_b10c91683b6fbc4c501cf178aa62f5b7930ace49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_aebb7a579cf89a70e6c601bf8e7fccc17ceebae2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_3580379462423365d8d6c67195763814437754cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e7327b6546abb9f059ca6c679257f0e2ef21468d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_aacf8c07d5074d6f7184ea5bfc2475e63beba7fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_dcc441f6695880234c6a67c958b01bf81ea7416b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_56e7b58f93a7eebeca5bd8922773bbe5cdcbeacb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_1953d30ff95ad103f5607dd7b338318c8fab2808/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_8507e1b173dd63925bddb0683837b23874c28f3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_7d5b23017a235ca0c2a515bf3bc73084434d1d8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_0655de61a11165668691f251e63e68f2798f0a73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_35da860b3366c90454ee1f3875d465990418b97d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e945bb738b247da49fe40fdadc687f4b63f7f5d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_af6a1cca933d0aae716a1f4759e54ed86bd50731/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_ccb7e0cb6f1d2643494a6ac7bb047e5ad6c36903/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_9b098d458481c7bc2c8431b28898455c3b788da1/classes.dex" />
+    </item>
+
+</items>
