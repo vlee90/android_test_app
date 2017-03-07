@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.2.0_0b95be6ef2720404245b8cb43ffa73edd530f804/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -12,12 +21,48 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="e6565d0a3ee5b0984eda0d2d929398bed92dbf88">
-        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2dcf2f9e081c03c603b17ec5f8375f9cca509f6b/classes.dex" />
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.0_63b2f2c16ce36a3db65467e848db2bd7f98a215d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.2.0_8752929c4fbf48accbbef5f79124b61ad71d7363/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.2.0_fbe4a54ea4f3f28b59f8c19efdb4ac00a2e48639/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.2.0_766726812e9a7815c22326c8eac33ee8b52bbdbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.0_13ece3d4ffbfcccdf58bd783ac3a7843996806ed/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -25,8 +70,17 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="37a1468cdaf31f9973c220ba594205bdf3e3c561">
+        sha1="09cb82ea613fa9af7f510b95adbe3457bdc10f4f">
         <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_49380e0291391c39e7ec757f066c43fad3a1621c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.2.0_48865ac0793b1df03d64eb033a2cfe49d34507ab/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -48,12 +102,48 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.2.0_79c8a7f490d9d637742069dc34bedccc5ef419e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.2.0_52fb7f842ca9e75d1bc3e3ea712a3fa2f4c8f3f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.2.0_8890adc6ce1eea43c3209eecf9b8a439d16afdf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="f83b00041ecfba705603fec40363416c7de69719">
         <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_aebb7a579cf89a70e6c601bf8e7fccc17ceebae2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.2.0_dd5331eba1236dade7c3d0301399db511de44524/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,6 +156,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.2.0_460f70b2b1e5ae0289c292b20ac13f82f806dbed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
@@ -75,39 +174,138 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_aacf8c07d5074d6f7184ea5bfc2475e63beba7fe/classes.dex" />
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.2.0_c62ecdfaba886614d10db9ccc404e1d409c439d1/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_dcc441f6695880234c6a67c958b01bf81ea7416b/classes.dex" />
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.2.0_a14ae0fa3fd59adfc361b96c934ca84f4e772e07/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_56e7b58f93a7eebeca5bd8922773bbe5cdcbeacb/classes.dex" />
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.0_8e4231b93b88808d9b051a1c61d0ccc84e7c7fa3/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_1953d30ff95ad103f5607dd7b338318c8fab2808/classes.dex" />
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.0_36e099ff69a4d6177fe55744cfa20c95408fdf55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.2.0_aee909f148b6e946ebb0593bc6edb68d6812334c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.2.0_00c7cb3a0f9ec65260e081ce1ac38ad58b7e42f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.2.0_b36483047d2bf522c6e9edb026d163706c2a1059/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.2.0_46af580d931b6ac54caf2dd2a8b9cce49a6e69ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.2.0_5d20f6595a5ca84274d1e5e5ae07978aa8246dd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.2.0_ec3b61700dc6a04b4d6169dc5621118b142cc5d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_929640272a61f824cbc3307cbb0ccf4340fa2a97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.2.0_73514c594dfc48458d5acfb2080f7b01cb84b328/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.2.0_e5d2ab1a93f427de128815cc1b0da8f23a5769f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.0_0006f44a754128e79e6b22c91df5b6537564597d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.2.0_1a245069683bbda86758745e5f2e0bc5dfed14d0/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -117,6 +315,42 @@
         revision="25.0.2"
         sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
         <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_8507e1b173dd63925bddb0683837b23874c28f3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.2.0_cc6e9bac44eac1f765eb7c67543bf7f189979a60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.2.0_1c91ccfd6c3c132675283c6ee9126fa364f3af48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_49393010b38a034689747777e4a7191f0d1d3f9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.2.0_1825fb3a37d7bd162d1dc849ffd589684d238a34/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -138,15 +372,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
-        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_35da860b3366c90454ee1f3875d465990418b97d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
@@ -156,12 +381,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_af6a1cca933d0aae716a1f4759e54ed86bd50731/classes.dex" />
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.2.0_739050d29e9990b2030f0aeddc33c19bd430996b/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -180,6 +405,240 @@
         revision="25.0.2"
         sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
         <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_9b098d458481c7bc2c8431b28898455c3b788da1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.2.0_397b751ef8fa86f0c60170952d58fa19bc95905c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7fa399d9f106a5d8e3183dac3a0ba2c7e192455a">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2dcf2f9e081c03c603b17ec5f8375f9cca509f6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.2.0_a8ddbe10bbc649b832f1208295dc983a164b4ee5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.2.0_21325e5956b17d955d5a6f4cf46c20c25a71a7c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.2.0_fd738188f96685140d70ca6f60975481e95160a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.2.0_40164ed89e0aac9d36bf6619a798e57c5a9267bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.2.0_980e9a133ccce6021dc55a2f0546f0d812f87ddf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.2.0_2b34770ccc6b913a0a84c28b591419a1b2c04689/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.2.0_c03b94801f8487c644e0f4abfd44daa9afa785ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_aacf8c07d5074d6f7184ea5bfc2475e63beba7fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.2.0_b99b1ed4d5abd07605ef2183a35dd1da95829e11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_56e7b58f93a7eebeca5bd8922773bbe5cdcbeacb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_5608b308f7c00e2bc2650085067829b3ab3b382e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_dcc441f6695880234c6a67c958b01bf81ea7416b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.2.0_97370398cf7196339321ca8e179d2ea183c5ad5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.2.0_6797accdd1c56ea5a2c84413f33c735d3bfced0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.2.0_7f2afc44592793c0f89cf29dab528ba48f383614/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.2.0_6ca428ab242663591de66a8b46f284b6d4347cc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_1953d30ff95ad103f5607dd7b338318c8fab2808/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.2.0_7224ed49b52bc8dedcd3e29474232eab77ec50ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.0_6c61a7f6ce84d1dcead9295fb50348991578a0fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.2.0_f83459986c17a0dcb8609559e1f9193bc99beda6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.2.0_5c034ea19ba467233549ef1a31c8491d52002835/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_35da860b3366c90454ee1f3875d465990418b97d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_af6a1cca933d0aae716a1f4759e54ed86bd50731/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.2.0_90b1cb7d7f8187fc39140c49a366c5a19469c75b/classes.dex" />
     </item>
 
 </items>

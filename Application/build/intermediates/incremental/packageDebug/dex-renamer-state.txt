@@ -1,4 +1,4 @@
-#Tue Mar 07 09:27:16 PST 2017
+#Tue Mar 07 14:12:07 PST 2017
 base.0=/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2dcf2f9e081c03c603b17ec5f8375f9cca509f6b
 renamed.1=classes.dex
 renamed.0=classes2.dex

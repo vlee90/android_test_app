@@ -16,11 +16,17 @@
 
 package com.example.android.common.activities;
 
+import android.content.Context;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 
+import com.example.android.AnalyticsManager;
 import com.example.android.common.logger.Log;
 import com.example.android.common.logger.LogWrapper;
+import com.google.android.gms.tagmanager.DataLayer;
+
+import java.util.Map;
+import java.util.StringTokenizer;
 
 /**
  * Base launcher activity, to handle most of the common plumbing for samples.
@@ -32,6 +38,10 @@ public class SampleActivityBase extends FragmentActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        AnalyticsManager.getInstance().startAnalytics(getApplicationContext());
+
+        AnalyticsManager.dataLayerPush(DataLayer.mapOf("event", "screenLoad","screenName","home"));
     }
 
     @Override

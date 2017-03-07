@@ -5,30 +5,30 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="90956913737209"
+    timestamp="105134469707221"
     token="383753229821741587"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="MANIFEST_FILE_CHANGE" >
 
     <task
         name="javac"
-        duration="464" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="379" />
+        duration="0" />
     <task
         name="verifier"
-        duration="55" />
+        duration="0" />
 
     <artifact
         location="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/outputs/apk/Application-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="90956913737209"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="105134469707221"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
             location="/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/outputs/apk/Application-debug.apk"
             type="MAIN" />
