@@ -2019,29 +2019,8 @@
                     "startColumn": 4,
                     "startOffset": 20451,
                     "endLine": 280,
-                    "endColumn": 8,
-                    "endOffset": 20576
-                },
-                "from": {
-                    "file": "/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 0,
-                        "startOffset": 172,
-                        "endLine": 5,
-                        "endColumn": 8,
-                        "endOffset": 297
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 281,
-                    "startColumn": 4,
-                    "startOffset": 20581,
-                    "endLine": 282,
                     "endColumn": 12,
-                    "endOffset": 20657
+                    "endOffset": 20527
                 },
                 "from": {
                     "file": "/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/src/main/res/values-v21/base-template-styles.xml",
@@ -2057,12 +2036,12 @@
             },
             {
                 "to": {
-                    "startLine": 283,
+                    "startLine": 281,
                     "startColumn": 4,
-                    "startOffset": 20662,
-                    "endLine": 285,
+                    "startOffset": 20532,
+                    "endLine": 283,
                     "endColumn": 12,
-                    "endOffset": 20832
+                    "endOffset": 20702
                 },
                 "from": {
                     "file": "/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
@@ -2078,12 +2057,12 @@
             },
             {
                 "to": {
-                    "startLine": 286,
+                    "startLine": 284,
                     "startColumn": 4,
-                    "startOffset": 20837,
-                    "endLine": 290,
+                    "startOffset": 20707,
+                    "endLine": 288,
                     "endColumn": 12,
-                    "endOffset": 21173
+                    "endOffset": 21043
                 },
                 "from": {
                     "file": "/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",

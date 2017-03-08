@@ -394,29 +394,8 @@
                     "startLine": 170,
                     "startColumn": 4,
                     "startOffset": 12650,
-                    "endLine": 171,
-                    "endColumn": 8,
-                    "endOffset": 12771
-                },
-                "from": {
-                    "file": "/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.0/res/values-v11/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 0,
-                        "startOffset": 172,
-                        "endLine": 5,
-                        "endColumn": 8,
-                        "endOffset": 293
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 172,
-                    "startColumn": 4,
-                    "startOffset": 12776,
                     "endColumn": 64,
-                    "endOffset": 12836
+                    "endOffset": 12710
                 },
                 "from": {
                     "file": "/Users/vincentlee/Documents/repo/android-play-store-tracking/Application/src/main/res/values-v11/template-styles.xml",
